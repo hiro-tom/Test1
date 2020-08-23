@@ -1,0 +1,9 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID.    TEST.
+       ENVIRONMENT DIVISION.
+       DATA DIVISION.
+       PROCEDURE DIVISION.
+       MAIN.
+           DISPLAY"HELLO WORLD".
+           STOP RUN.
+
